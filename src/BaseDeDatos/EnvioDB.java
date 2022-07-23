@@ -1,3 +1,6 @@
+package BaseDeDatos;
+import Entidades.Envio;
+
 public class EnvioDB {
 
     public EnvioDB() {

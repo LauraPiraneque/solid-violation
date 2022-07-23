@@ -1,4 +1,5 @@
-abstract class Envio {
+package Entidades;
+public abstract class Envio {
 
   private Integer precio;
 

@@ -1,3 +1,4 @@
+package Entidades;
 public class Internacional extends Envio{
 
     public Internacional(Integer precio) {

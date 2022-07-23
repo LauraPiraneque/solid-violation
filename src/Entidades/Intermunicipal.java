@@ -1,3 +1,4 @@
+package Entidades;
 public class Intermunicipal extends Envio{
 
     public Intermunicipal(Integer precio) {

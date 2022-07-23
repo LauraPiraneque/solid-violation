@@ -1,3 +1,9 @@
+package Vista;
+import Entidades.Envio;
+import Entidades.Intermunicipal;
+import Entidades.Internacional;
+import Entidades.Municipal;
+
 public class Principal {
 
   public static void main(String[] args) {

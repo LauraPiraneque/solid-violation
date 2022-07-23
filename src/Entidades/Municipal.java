@@ -1,3 +1,4 @@
+package Entidades;
 public class Municipal extends Envio{
 
     public Municipal(Integer precio) {
